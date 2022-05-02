@@ -1,0 +1,6 @@
+youtube: 
+https://www.youtube.com/watch?v=5Wak0iyGCrc&ab_channel=ILWYennefer
+
+tailwindcss with next.js doc: 
+https://tailwindcss.com/docs/guides/nextjs
+
